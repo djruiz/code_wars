@@ -11,4 +11,9 @@ function disemvowel(str){
     return retStr;
 }
 
+function disemvowelRegex(str){
+    return str.replace(/[aeiou]/gi, '');
+}
+
 exports.disemvowel = disemvowel;
+exports.disemvowelRegex = disemvowelRegex;
