@@ -1,1 +1,0 @@
-Welcome! Just archiving the solutions I come up with on codewars.  Cheers
